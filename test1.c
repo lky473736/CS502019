@@ -19,7 +19,7 @@ int main(void)
     }
     else 
     {
-        printf ("0이기 때문에 프로그램을 종료합니다."); // 음수는?
+        printf ("0이기 때문에 프로그램을 종료합니다."); // 음수는? -> 'undefined computing'
         return 0;
     }
     }
