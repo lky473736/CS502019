@@ -16,6 +16,8 @@ int main(void)
         scores[i] = get_int("score %i : ", i + 1);
     }
     
+    // search algorithm (mechanical)
+    
     for (int j = 0; j < n; j++)
     {
         if (scores[j] >= 90)
