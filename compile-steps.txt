@@ -1,0 +1,9 @@
+<컴파일의 순서>
+
+1) preprocessing : 전처리
+2) compiling : 컴파일링 
+: source-code -> assembly
+3) assembling : 어셈블링
+: assembly -> machine-code
+4) linking : 링킹
+: 모든 파일들의 0과 1을 합침
